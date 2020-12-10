@@ -37,3 +37,5 @@
 2. libftprintf.a will be created. 3.
 3. gcc -Wall -Wextra -Werror main.c libftprintf.a 4. .
 4. . /a.out, the case of main.c will be compared with the standard and printed to the standard output.
+
+![pic-1](https://i.gyazo.com/881aae3c7d27c64d713c370a4c53d36f.png)
